@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>华为od</title>
+      <link href="/2025/03/30/%E5%8D%8E%E4%B8%BAod/"/>
+      <url>/2025/03/30/%E5%8D%8E%E4%B8%BAod/</url>
+      
+        <content type="html"><![CDATA[<h3 id="技术一面"><a href="#技术一面" class="headerlink" title="技术一面"></a>技术一面</h3><h4 id="和-的区别"><a href="#和-的区别" class="headerlink" title="$ 和 # 的区别"></a>$ 和 # 的区别</h4><p>#号可以防止sql注入问题，他会先把sql语句预编译，会给字段加引号，所以在某些需要表名或者列名的时候，需要使用$,$符不会给字段加引号，</p><h4 id="Resource-和Autowair的区别"><a href="#Resource-和Autowair的区别" class="headerlink" title="Resource 和Autowair的区别"></a>Resource 和Autowair的区别</h4><h4 id="ThreadLocal造成内存泄露的原因"><a href="#ThreadLocal造成内存泄露的原因" class="headerlink" title="ThreadLocal造成内存泄露的原因"></a>ThreadLocal造成内存泄露的原因</h4><h4 id="SQL执行计划选错索引的原因"><a href="#SQL执行计划选错索引的原因" class="headerlink" title="SQL执行计划选错索引的原因"></a>SQL执行计划选错索引的原因</h4><h4 id="策略模式怎么实现新增策略自动注册"><a href="#策略模式怎么实现新增策略自动注册" class="headerlink" title="策略模式怎么实现新增策略自动注册"></a>策略模式怎么实现新增策略自动注册</h4><h4 id="重写equal-方法不重写hashCode-方法会出现什么情况"><a href="#重写equal-方法不重写hashCode-方法会出现什么情况" class="headerlink" title="重写equal()方法不重写hashCode()方法会出现什么情况"></a>重写equal()方法不重写hashCode()方法会出现什么情况</h4><h3 id="技术二面"><a href="#技术二面" class="headerlink" title="技术二面"></a>技术二面</h3><h4 id="怎么排查内存泄露问题"><a href="#怎么排查内存泄露问题" class="headerlink" title="怎么排查内存泄露问题"></a>怎么排查内存泄露问题</h4><h4 id="怎么查找一个这个类名在那个jar包里-linux命令"><a href="#怎么查找一个这个类名在那个jar包里-linux命令" class="headerlink" title="怎么查找一个这个类名在那个jar包里 linux命令"></a>怎么查找一个这个类名在那个jar包里 linux命令</h4><h4 id="类重复问题或者类找不到问题怎么解决"><a href="#类重复问题或者类找不到问题怎么解决" class="headerlink" title="类重复问题或者类找不到问题怎么解决"></a>类重复问题或者类找不到问题怎么解决</h4><h4 id="git冲突了怎么解决"><a href="#git冲突了怎么解决" class="headerlink" title="git冲突了怎么解决"></a>git冲突了怎么解决</h4><h4 id="什么是多态"><a href="#什么是多态" class="headerlink" title="什么是多态"></a>什么是多态</h4><h4 id="log4j-他的日志级别，最高级别是多少"><a href="#log4j-他的日志级别，最高级别是多少" class="headerlink" title="log4j 他的日志级别，最高级别是多少"></a>log4j 他的日志级别，最高级别是多少</h4><ul><li><strong>OFF</strong>: 关闭所有日志记录。</li><li><strong>FATAL</strong>: 严重错误，必须中止应用程序。</li><li><strong>ERROR</strong>: 错误事件，应用程序可以继续运行。</li><li><strong>WARN</strong>: 警告信息，表示潜在的危险情况。</li><li><strong>INFO</strong>: 信息消息，突出应用程序的运行情况。</li><li><strong>DEBUG</strong>: 调试消息，详细信息用于调试应用程序。</li><li><strong>TRACE</strong>: 比 DEBUG 更详细的消息。</li><li><strong>ALL</strong>: 打开所有日志记录</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 面经 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2025/03/29/hello-world/"/>
       <url>/2025/03/29/hello-world/</url>
